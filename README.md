@@ -16,7 +16,7 @@ H2 Database
 
 Getting Started:
 
-Clone the repository: git clone https://github.com/your-username/tour-management-system.git
+Clone the repository: git clone https://github.com/Sushilgavit/Tours_mini_Project.git
 Navigate to the project directory: cd tour-management-system
 Build and run the project using your preferred IDE or with Maven: mvn spring-boot:run
 Access the API endpoints to interact with the tour management system.
